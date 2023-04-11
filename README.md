@@ -14,6 +14,9 @@ Buid out scafffold:
 * Makefile
 * requirements.txt
 * test_library.py
+* Dockerfile
+* command-line-tool
+* Microservice
 
 #### AWS CloudSHell
 #### AWS Cloud9
