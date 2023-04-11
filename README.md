@@ -9,6 +9,12 @@ From Zero Repository for doing Python DevOps work
 #### Colab Notebook
 * This is an example of how to use [colab](https://github.com/amalia020/Devops_Test/blob/main/start_with_python.ipynb)
 #### Github Codespaces
+
+Buid out scafffold:
+* Makefile
+* requirements.txt
+* test_library.py
+
 #### AWS CloudSHell
 #### AWS Cloud9
 
